@@ -1,1 +1,1 @@
-Sample README.md for Exercise 09
+Changed the readme coz of exercise 10
